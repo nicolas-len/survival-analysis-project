@@ -2,7 +2,7 @@
 
 📄 [PDF report](./Survival_Analysis.pdf)
 
-🌐 [Project page](https://nikolailen.github.io/survival-analysis-project/)
+🌐 [Project page](https://nicolas-len.github.io/survival-analysis-project/)
 
 👤 Project contact: Nicolas Len
 
